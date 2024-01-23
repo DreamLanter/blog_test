@@ -36,10 +36,9 @@ categories: 碎碎念
 
 为此定下 Flag 
 
-<div class="danger">
+
 
 > 今年内不忙每周两更，忙每周一更
 
-<div>
 
 # 我会努力更新的
