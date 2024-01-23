@@ -1,7 +1,7 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
-  //url: 'https://dreamlanter.github.io',
+  url: 'https://dreamlanter.github.io/blog',
   lang: 'zh-CN',
   title: 'DreamLanter Blog',
   author: {
