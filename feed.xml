@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>DreamLanter Blog</title>
+        <link>https://dreamlanter.github.io/blog/</link>
+        <description>资源分享，社会观察，碎碎念。</description>
+        <lastBuildDate>Wed, 24 Jan 2024 01:30:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>DreamLanter Blog</title>
+            <url>https://raw.githubusercontent.com/DreamLanter/picture-bed/main/avatar.jpg</url>
+            <link>https://dreamlanter.github.io/blog/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2024 © dreamlanter</copyright>
+        <atom:link href="https://dreamlanter.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[一篇 Post 是怎么诞生的]]></title>
+            <link>https://dreamlanter.github.io/blog/posts/how-to-make-a-post</link>
+            <guid>https://dreamlanter.github.io/blog/posts/how-to-make-a-post</guid>
+            <pubDate>Wed, 24 Jan 2024 01:29:32 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>一篇 Post 是怎么诞生的</h1>
+<p>以这篇文章为例聊聊我是怎么写作的</p>
+]]></content:encoded>
+            <author>i@valaxy.site (dreamlanter)</author>
+        </item>
+        <item>
+            <title><![CDATA[博客测试]]></title>
+            <link>https://dreamlanter.github.io/blog/posts/test</link>
+            <guid>https://dreamlanter.github.io/blog/posts/test</guid>
+            <pubDate>Wed, 24 Jan 2024 01:29:32 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>测试篇章</h1>
+<h2>二级标题</h2>
+<p><strong>加粗</strong></p>
+<h3>公式测试</h3>
+<p>${x | Ax = b}$</p>
+<p>$E = mc^2$<br>
+$\frac{\partial}{\partial t}$</p>
+<p>**行间公式</p>
+]]></content:encoded>
+            <author>i@valaxy.site (dreamlanter)</author>
+        </item>
+        <item>
+            <title><![CDATA[更新计划]]></title>
+            <link>https://dreamlanter.github.io/blog/posts/update-plan</link>
+            <guid>https://dreamlanter.github.io/blog/posts/update-plan</guid>
+            <pubDate>Wed, 24 Jan 2024 01:29:32 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>首先要立一个 Flag</h1>
+<div class="danger">
+<blockquote>
+<p><strong>博客更新计划尽量为一周两更，至少一周要更一篇</strong></p>
+</blockquote>
+</div>
+]]></content:encoded>
+            <author>i@valaxy.site (dreamlanter)</author>
+        </item>
+        <item>
+            <title><![CDATA[从头搭建个人博客]]></title>
+            <link>https://dreamlanter.github.io/blog/posts/从头搭建个人博客</link>
+            <guid>https://dreamlanter.github.io/blog/posts/从头搭建个人博客</guid>
+            <pubDate>Wed, 24 Jan 2024 01:29:32 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>前言</h1>
+<p>从今年年初开始就想搭建一个个人博客，最开始是想用 <a href="https://wordpress.com/zh-cn/">WordPress</a> 这种偏成熟的解决方案。<s>因为网上资源多</s></p>
+<h2></h2>
+]]></content:encoded>
+            <author>i@valaxy.site (dreamlanter)</author>
+        </item>
+    </channel>
+</rss>

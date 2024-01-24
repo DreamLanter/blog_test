@@ -1,0 +1,62 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "DreamLanter Blog",
+    "home_page_url": "https://dreamlanter.github.io/blog/",
+    "feed_url": "https://dreamlanter.github.io/blog/feed.json",
+    "description": "资源分享，社会观察，碎碎念。",
+    "icon": "https://raw.githubusercontent.com/DreamLanter/picture-bed/main/avatar.jpg",
+    "author": {
+        "name": "dreamlanter",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h1>一篇 Post 是怎么诞生的</h1>\n<p>以这篇文章为例聊聊我是怎么写作的</p>\n",
+            "url": "https://dreamlanter.github.io/blog/posts/how-to-make-a-post",
+            "title": "一篇 Post 是怎么诞生的",
+            "date_modified": "2022-10-30T22:31:19.000Z",
+            "date_published": "2024-01-24T01:29:32.542Z",
+            "author": {
+                "name": "dreamlanter",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h1>测试篇章</h1>\n<h2>二级标题</h2>\n<p><strong>加粗</strong></p>\n<h3>公式测试</h3>\n<p>${x | Ax = b}$</p>\n<p>$E = mc^2$<br>\n$\\frac{\\partial}{\\partial t}$</p>\n<p>**行间公式</p>\n",
+            "url": "https://dreamlanter.github.io/blog/posts/test",
+            "title": "博客测试",
+            "date_modified": "2022-10-16T15:25:51.000Z",
+            "date_published": "2024-01-24T01:29:32.542Z",
+            "author": {
+                "name": "dreamlanter",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h1>首先要立一个 Flag</h1>\n<div class=\"danger\">\n<blockquote>\n<p><strong>博客更新计划尽量为一周两更，至少一周要更一篇</strong></p>\n</blockquote>\n</div>\n",
+            "url": "https://dreamlanter.github.io/blog/posts/update-plan",
+            "title": "更新计划",
+            "date_modified": "2022-10-24T18:27:41.000Z",
+            "date_published": "2024-01-24T01:29:32.542Z",
+            "author": {
+                "name": "dreamlanter",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h1>前言</h1>\n<p>从今年年初开始就想搭建一个个人博客，最开始是想用 <a href=\"https://wordpress.com/zh-cn/\">WordPress</a> 这种偏成熟的解决方案。<s>因为网上资源多</s></p>\n<h2></h2>\n",
+            "url": "https://dreamlanter.github.io/blog/posts/从头搭建个人博客",
+            "title": "从头搭建个人博客",
+            "date_modified": "2022-10-16T21:10:34.000Z",
+            "date_published": "2024-01-24T01:29:32.542Z",
+            "author": {
+                "name": "dreamlanter",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://dreamlanter.github.io/blog/</id>
+    <title>DreamLanter Blog</title>
+    <updated>2024-01-24T01:30:19.714Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>dreamlanter</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://dreamlanter.github.io/blog/"/>
+    <link rel="self" href="https://dreamlanter.github.io/blog/atom.xml"/>
+    <subtitle>资源分享，社会观察，碎碎念。</subtitle>
+    <logo>https://raw.githubusercontent.com/DreamLanter/picture-bed/main/avatar.jpg</logo>
+    <icon>https://dreamlanter.github.io/blog/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2024 © dreamlanter</rights>
+    <entry>
+        <title type="html"><![CDATA[一篇 Post 是怎么诞生的]]></title>
+        <id>https://dreamlanter.github.io/blog/posts/how-to-make-a-post</id>
+        <link href="https://dreamlanter.github.io/blog/posts/how-to-make-a-post"/>
+        <updated>2022-10-30T22:31:19.000Z</updated>
+        <content type="html"><![CDATA[<h1>一篇 Post 是怎么诞生的</h1>
+<p>以这篇文章为例聊聊我是怎么写作的</p>
+]]></content>
+        <author>
+            <name>dreamlanter</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-01-24T01:29:32.542Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[博客测试]]></title>
+        <id>https://dreamlanter.github.io/blog/posts/test</id>
+        <link href="https://dreamlanter.github.io/blog/posts/test"/>
+        <updated>2022-10-16T15:25:51.000Z</updated>
+        <content type="html"><![CDATA[<h1>测试篇章</h1>
+<h2>二级标题</h2>
+<p><strong>加粗</strong></p>
+<h3>公式测试</h3>
+<p>${x | Ax = b}$</p>
+<p>$E = mc^2$<br>
+$\frac{\partial}{\partial t}$</p>
+<p>**行间公式</p>
+]]></content>
+        <author>
+            <name>dreamlanter</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-01-24T01:29:32.542Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[更新计划]]></title>
+        <id>https://dreamlanter.github.io/blog/posts/update-plan</id>
+        <link href="https://dreamlanter.github.io/blog/posts/update-plan"/>
+        <updated>2022-10-24T18:27:41.000Z</updated>
+        <content type="html"><![CDATA[<h1>首先要立一个 Flag</h1>
+<div class="danger">
+<blockquote>
+<p><strong>博客更新计划尽量为一周两更，至少一周要更一篇</strong></p>
+</blockquote>
+</div>
+]]></content>
+        <author>
+            <name>dreamlanter</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-01-24T01:29:32.542Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从头搭建个人博客]]></title>
+        <id>https://dreamlanter.github.io/blog/posts/从头搭建个人博客</id>
+        <link href="https://dreamlanter.github.io/blog/posts/从头搭建个人博客"/>
+        <updated>2022-10-16T21:10:34.000Z</updated>
+        <content type="html"><![CDATA[<h1>前言</h1>
+<p>从今年年初开始就想搭建一个个人博客，最开始是想用 <a href="https://wordpress.com/zh-cn/">WordPress</a> 这种偏成熟的解决方案。<s>因为网上资源多</s></p>
+<h2></h2>
+]]></content>
+        <author>
+            <name>dreamlanter</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-01-24T01:29:32.542Z</published>
+    </entry>
+</feed>
